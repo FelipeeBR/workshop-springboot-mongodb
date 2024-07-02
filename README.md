@@ -10,6 +10,13 @@ Implementar associações entre objetos
 
 Realizar consultas com Spring Data e MongoRepository
 
+### API REST
+- Buscar usuário por id
+- Buscar Post pelo titulo
+- Inserir Comentário
+- Inserir Usuário
+- Inserir Post
+
 ## Tecnologias Utilizadas
 
 - Java
